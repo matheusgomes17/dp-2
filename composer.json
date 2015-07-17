@@ -1,0 +1,19 @@
+{
+    "name" : "1º Projeto",
+    "authors" : [
+        {
+            "name" : "Matheus Gomes",
+            "email" : "zuza-cs@hotmail.com"
+        }
+    ],
+    "license" : "MIT",
+
+    "require" : {
+        "php" : ">=5.5"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "" : "src/"
+        }
+    }
+}
