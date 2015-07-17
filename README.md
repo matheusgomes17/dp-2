@@ -1,0 +1,2 @@
+- Tenha certeza de estar utilizando php 5.5
+- Utilize o comando "php -S localhost:8000 -t public" para iniciar o servidor.
